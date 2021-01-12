@@ -1,1 +1,1 @@
-Getir uygulamasının appbar kısmını klonladım.
+Getir uygulamasının appbar kısmını yapmaya çalıştım.
